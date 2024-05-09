@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordRichPresenceClear", "DiscordRichPresenceClear.csproj", "{89283B83-B982-44FF-A4E2-6E76842D411E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89283B83-B982-44FF-A4E2-6E76842D411E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89283B83-B982-44FF-A4E2-6E76842D411E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89283B83-B982-44FF-A4E2-6E76842D411E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89283B83-B982-44FF-A4E2-6E76842D411E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7737C8-7A67-4104-90FB-6DA9FEDBCA8D}
+	EndGlobalSection
+EndGlobal
